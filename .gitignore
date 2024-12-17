@@ -23,9 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-HELP.md
+game-store-api/HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!game-store-api/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
